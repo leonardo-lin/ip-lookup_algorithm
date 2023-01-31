@@ -1,3 +1,24 @@
 # Explanation of the problem
 
-In this work we must find the first rule that is met
+## In this work we must find the first rule that is met
+
+the input rule will be show as the following format
+4238902869 1620785308 0 5631 6 479
+3536369151 4294967295 0 65535 0 8829
+3444232448 659471976 65535 21 6 3528
+1230635401 1581555598 80 5540 17 36
+
+Our task is to find the first rule that matches in order from the table
+
+the rule table will be show as the following format
+@230.86.143.212/32 122.58.92.251/32 5530 : 5530 514 : 514 0x11/0xFF
+@241.220.251.170/32 96.112.121.80/32 137 : 137 1723 : 1723 0x11/0xFF
+@241.193.234.112/32 96.112.121.84/32 1433 : 1433 5530 : 5530 0x11/0xFF
+@210.41.248.166/32 73.9.237.115/32 80 : 80 80 : 80 0x11/0xFF
+...
+@0.0.0.0/0 189.254.0.0/16 0 : 65535 0 : 65535 0x00/0x00
+@0.0.0.0/0 191.211.0.0/16 0 : 65535 0 : 65535 0x00/0x00
+@0.0.0.0/0 0.0.0.0/0 0 : 65535 0 : 65535 0x01/0xFF
+@0.0.0.0/0 0.0.0.0/0 0 : 65535 0 : 65535 0x06/0xFF
+@0.0.0.0/0 0.0.0.0/0 0 : 65535 0 : 65535 0x33/0xFF
+@0.0.0.0/0 0.0.0.0/0 0 : 65535 0 : 65535 0x00/0x00
