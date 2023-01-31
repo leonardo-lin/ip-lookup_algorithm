@@ -49,6 +49,8 @@ I check :</br></br>
 1.0.0.64(128/2)</br>
 1.0.0.32(64/2)</br>
 ...</br>
+1.0.0.2</br>
+1.0.0.1</br>
 1.0.0.0</br>
 so I find 1.0.0.0 is in the hash table and the next hop is 92.40.106.120</br>
 
