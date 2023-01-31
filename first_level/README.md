@@ -1,6 +1,6 @@
 # Explanation of the problem
 ## in this work we will have to find the "next hop" with the given IP address
-### ip will be show like the following structure
+### ip will be show as the following format
 
 IP Address      
 103.25.85.161      
