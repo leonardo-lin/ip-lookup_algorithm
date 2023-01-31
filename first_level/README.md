@@ -26,9 +26,9 @@ Prefix               Next Hop
 223.255.254.0/24     165.251.122.152
 
 Let's learn how to read this table first
-All ip's can be considered as a 32bit code such as 
+All ip's can be considered as a 32bit code such as </br>
 1.2.3.4 -> 00000001 00000010 00000011 00000100
-the number after "/" is called mask such as 1.2.3.4/"24". That means we only have to consider the first "mask bits" of IP table. Using 1.2.3.4/24 we can have
+the number after "/" is called mask such as 1.2.3.4/"24". That means we only have to consider the first "mask bits" of IP table. Using 1.2.3.4/24 we can have</br>
 00000001 00000010 00000011 xxxxxxxx (x=don't care)
 If the input ip matches this rule than we find the next hop (1.2.3.128 matches 1.2.3.4/24 find 92.40.106.120 as next hop)
 
