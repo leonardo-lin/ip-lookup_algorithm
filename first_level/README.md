@@ -59,3 +59,7 @@ if you want to run the code you have to download the following file</br>
 [prefix file](https://drive.google.com/file/d/1gmu6AkGuIDF0V27t8sfDxx1abGtkgpa3/view?usp=sharing)</br>
 [trace file](https://drive.google.com/file/d/1GOHjsDsryoj0CR6dMlOmOo4Med7nt4qd/view?usp=sharing)</br>
 inside prefix file is the prefix table and you can try it with trace file(answer). Insert any IP in trace file and test if it's next hop is equal to the output from "inference.py"
+
+# example
+![image](https://user-images.githubusercontent.com/67550587/215998254-56676df1-0d12-4259-8601-a9fe76dcd7e2.png)
+
