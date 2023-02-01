@@ -36,7 +36,7 @@ I still choose to use the basic way:linear. But different from the basic way, I 
 ![image](https://user-images.githubusercontent.com/67550587/216061563-b1fe1384-1a7e-4c37-b7cd-ad7201327716.png)
 
 # example
-![image](https://user-images.githubusercontent.com/67550587/216061833-e100ebb2-4249-457b-8bd0-db30a1acebdc.png)
+![image](https://user-images.githubusercontent.com/67550587/216062080-2fdb8e19-b936-4ecf-aa40-06e416559466.png)
 
 
 
